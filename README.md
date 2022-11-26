@@ -1,5 +1,6 @@
 # Astro Starter Kit: Blog
 
+
 ```
 npm create astro@latest -- --template blog
 ```
@@ -20,6 +21,11 @@ Features:
 - ✅ Sitemap support
 - ✅ RSS Feed support
 - ✅ Markdown & MDX support
+
+Astro Configuration:
+- React
+- Typescript (strict)
+- TailwindCSS
 
 ## 🚀 Project Structure
 
